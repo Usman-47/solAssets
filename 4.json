@@ -3,10 +3,10 @@
   "symbol": "Rage",
   "description": "Ragin roosters",
   "seller_fee_basis_points": 700,
-  "image": "https://raw.githubusercontent.com/Usman-47/solAssets/main/2.png",
+  "image": "https://raw.githubusercontent.com/Usman-47/solAssets/main/4.png",
   "attributes": [
-    { "trait_type": "Background", "value": "Farm" },
-    { "trait_type": "Base", "value": "Robot" },
+    { "trait_type": "Background", "value": "Red" },
+    { "trait_type": "Base", "value": "Green" },
     { "trait_type": "Back", "value": "Shovel" },
     { "trait_type": "Clothing", "value": "Hoodie" },
     { "trait_type": "Eyes", "value": "NerdGlasses" },
