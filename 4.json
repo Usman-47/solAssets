@@ -1,0 +1,27 @@
+{
+  "name": "Ragin' Roosters #7",
+  "symbol": "Rage",
+  "description": "Ragin roosters",
+  "seller_fee_basis_points": 700,
+  "image": "6.png",
+  "attributes": [
+    { "trait_type": "Background", "value": "Farm" },
+    { "trait_type": "Base", "value": "Robot" },
+    { "trait_type": "Back", "value": "Shovel" },
+    { "trait_type": "Clothing", "value": "Hoodie" },
+    { "trait_type": "Eyes", "value": "NerdGlasses" },
+    { "trait_type": "Mouth", "value": "BreathingFire" },
+    { "trait_type": "Head", "value": "Fedora" }
+  ],
+  "properties": {
+    "creators": [
+      {
+        "address": "AdjD1B3usZRPSzLPFvuXwZvwC2KTGouAnNf9xjYkjtxY",
+        "share": 100
+      }
+    ],
+    "category": "image",
+    "files": [{ "uri": "6.png", "type": "image/png" }]
+  },
+  "collection": { "name": "Ragin Roosters", "family": "rage" }
+}
